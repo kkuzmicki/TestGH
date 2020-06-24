@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity
         System.out.println("gałąź");
         System.out.println("ale");
         System.out.println("rent");
+        System.out.println("rensat");
     }
 }
