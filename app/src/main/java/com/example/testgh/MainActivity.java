@@ -16,5 +16,12 @@ public class MainActivity extends AppCompatActivity
         setContentView(R.layout.activity_main);
 
         przycisk = findViewById(R.id.button2); //
+
+       
+
+        System.out.println("gałąź");
+        System.out.println("ale");
+        System.out.println("rent");
+        System.out.println("rensat");
     }
 }
