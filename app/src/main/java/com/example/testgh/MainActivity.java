@@ -11,5 +11,9 @@ public class MainActivity extends AppCompatActivity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        System.out.println("gałąź");
+        System.out.println("ale");
+        System.out.println("rent");
+        System.out.println("rensat");
     }
 }
