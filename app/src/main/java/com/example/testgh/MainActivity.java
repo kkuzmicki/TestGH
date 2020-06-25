@@ -23,5 +23,6 @@ public class MainActivity extends AppCompatActivity
         System.out.println("rensat");
 
         System.out.println("2");
+        System.out.println("gałąź czadowych chłopaków");
     }
 }
