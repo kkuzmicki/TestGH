@@ -15,14 +15,6 @@ public class MainActivity extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        przycisk = findViewById(R.id.button2); //
-
-        System.out.println("gałąź");
-        System.out.println("ale");
-        System.out.println("rent");
-        System.out.println("rensat");
-
-        System.out.println("2");
-        System.out.println("gałąź czadowych chłopaków");
+        przycisk = findViewById(R.id.button2);
     }
 }
