@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity
         System.out.println("a kto to przyszedł? pan maruda, niszczyciel dobrej zabawy i pogromca uśmiechów dzieci ");
         System.out.println("no ja tu widzę mocne zmiany zostały wprowadzone, nieładnie tak");
         setContentView(R.layout.activity_main);
+
         przycisk = findViewById(R.id.button2);//
 
         System.out.println("gałąź");
