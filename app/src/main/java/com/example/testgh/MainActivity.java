@@ -17,9 +17,12 @@ public class MainActivity extends AppCompatActivity
 
         przycisk = findViewById(R.id.button2); //
 
-       
+        System.out.println("gałąź");
+        System.out.println("ale");
+        System.out.println("rent");
+        System.out.println("rensat");
 
+        System.out.println("2");
         System.out.println("gałąź czadowych chłopaków");
-
     }
 }
